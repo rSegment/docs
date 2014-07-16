@@ -9,6 +9,11 @@ Random collection of learning materials and documents.
 - [The Computer Language Benchmarks Game](http://benchmarksgame.alioth.debian.org/) - contains a large collection of benchmarks in different languages for different problems, tasted on different processor architectures.
 
 
+## Machine Learning
+
+- <https://github.com/josephmisiti/awesome-machine-learning>
+
+
 ## Programming Humor
 
 - [The Tao of Programming](http://www.mit.edu/~xela/tao.html):
