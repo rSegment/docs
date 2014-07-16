@@ -4,6 +4,11 @@ Qt
 Random collection of learning materials and documents related to Qt.
 
 
+## Application Design
+
+- [PyQt4 Model View Programming Tutorials](http://www.yasinuludag.com/blog/?p=98) - A video tutorial series about Model View programming Methodology in UI development with PyQt4.
+
+
 ## General
 
 ## C++
