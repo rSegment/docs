@@ -4,6 +4,11 @@ docs
 Random collection of learning materials and documents.
 
 
+## Programming Languages
+
+- [Awesome OCaml](https://github.com/rizo/awesome-ocaml) – A curated collection of awesome OCaml tools, frameworks, libraries and articles.
+
+
 ## General
 
 - [The Computer Language Benchmarks Game](http://benchmarksgame.alioth.debian.org/) - contains a large collection of benchmarks in different languages for different problems, tasted on different processor architectures.
